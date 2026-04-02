@@ -1,18 +1,44 @@
-# 💫 About Me:
-I AM AN STUDENT OF BCA IN S.U.S G.C MATAK MAJRI
+<h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
+<h3 align="center">Frontend Web Developer | BCA Student | Linux & AI Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AMITSAINI.EXE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-02791033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Amit-Kumar-93586) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AMITKUMAR7725) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theamitsaini7988@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=localhostamit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=localhostamit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=localhostamit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://localhostamit.me" target="_blank">Portfolio</a> •
+  <a href="https://linkedin.com/in/localhostamit" target="_blank">LinkedIn</a> •
+  <a href="mailto:kumaramit02934@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=localhostamit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 I'm currently a 4th-semester **BCA student** at Shaheed Udham Singh Govt College (KUK), graduating in 2027.
+- 💻 Proficient in **Frontend Web Development** (HTML, CSS, JS) and exploring backend/networking concepts.
+- 🐧 Big fan of **Linux** (Ubuntu, Kali, Pop!_OS) and leveraging **GenAI** for coding efficiency.
+- 🚀 **Currently looking for a Summer Internship** in Web Development or general Tech (June).
+- 📫 How to reach me: **kumaramit02934@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Programming Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**OS & AI Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BCC?style=for-the-badge&logo=kalilinux&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+* 🌐 **[pyqhubs.in](http://www.pyqhubs.in)**: A dedicated educational platform hosting academic resources and Previous Year Questions (PYQs) for Kurukshetra University (KUK) students.
+* 💬 **[Ghostlink](http://ghostlink.localhostamit.me)**: A real-time, browser-based Peer-to-Peer (P2P) web chat application. 
+* 🌾 **[KisanMitra](http://kisanmittra.localhostamit.me)**: An application integrated with the Open Government Data (OGD) API to fetch and display live Mandi (agricultural market) rates.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=localhostamit&show_icons=true&theme=radium" alt="localhostamit's GitHub Stats" />
+</p>
