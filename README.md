@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://localhostamit.me" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/localhostamit" target="_blank">LinkedIn</a> •
+  <a href="https://linkedin.com/in/amitkumar7988" target="_blank">LinkedIn</a> •
   <a href="mailto:kumaramit02934@gmail.com">Email</a>
 </p>
 
@@ -33,7 +33,7 @@
 
 * 🌐 **[pyqhubs.in](http://www.pyqhubs.in)**: A dedicated educational platform hosting academic resources and Previous Year Questions (PYQs) for Kurukshetra University (KUK) students.
 * 💬 **[Ghostlink](http://ghostlink.localhostamit.me)**: A real-time, browser-based Peer-to-Peer (P2P) web chat application. 
-* 🌾 **[KisanMitra](http://kisanmittra.localhostamit.me)**: An application integrated with the Open Government Data (OGD) API to fetch and display live Mandi (agricultural market) rates.
+* 🌾 **[KisanMitra](http://kisanmitra.localhostamit.me)**: An application integrated with the Open Government Data (OGD) API to fetch and display live Mandi (agricultural market) rates.
 
 ---
 
