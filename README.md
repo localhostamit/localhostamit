@@ -67,6 +67,3 @@ A web application that uses the Open Government Data API to display live mandi p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=localhostamit&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=localhostamit&theme=github-dark&hide_border=true" />
-</p>
