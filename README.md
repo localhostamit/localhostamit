@@ -1,44 +1,74 @@
-<h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
-<h3 align="center">Frontend Web Developer | BCA Student | Linux & AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Amit Kumar</h1>
+<h3 align="center">MERN Stack Developer | BCA Student | Linux & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://localhostamit.me" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/amitkumar7988" target="_blank">LinkedIn</a> •
+  <a href="https://localhostamit.me">Portfolio</a> •
+  <a href="https://linkedin.com/in/amitkumar7988">LinkedIn</a> •
   <a href="mailto:kumaramit02934@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🎓 I'm currently a 4th-semester **BCA student** at Shaheed Udham Singh Govt College (KUK), graduating in 2027.
-- 💻 Proficient in **Frontend Web Development** (HTML, CSS, JS) and exploring backend/networking concepts.
-- 🐧 Big fan of **Linux** (Ubuntu, Kali, Pop!_OS) and leveraging **GenAI** for coding efficiency.
-- 🚀 **Currently looking for a Summer Internship** in Web Development or general Tech (June).
-- 📫 How to reach me: **kumaramit02934@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Programming Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**OS & AI Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BCC?style=for-the-badge&logo=kalilinux&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- BCA (5th Semester) student at Shaheed Udham Singh Govt. College (KUK), graduating in 2027.
+- Learning and building projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- Interested in Linux, Networking, Open Source, and AI-assisted development.
+- Looking for internship opportunities in Web Development and Software Engineering.
 
 ---
 
-### 🚀 Featured Projects
+## Tech Stack
 
-* 🌐 **[pyqhubs.in](http://www.pyqhubs.in)**: A dedicated educational platform hosting academic resources and Previous Year Questions (PYQs) for Kurukshetra University (KUK) students.
-* 💬 **[Ghostlink](http://ghostlink.localhostamit.me)**: A real-time, browser-based Peer-to-Peer (P2P) web chat application. 
-* 🌾 **[KisanMitra](http://kisanmitra.localhostamit.me)**: An application integrated with the Open Government Data (OGD) API to fetch and display live Mandi (agricultural market) rates.
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BCC?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
+
+### PyQHubs
+Educational platform providing Previous Year Questions and study resources for Kurukshetra University students.
+
+**Website:** https://www.pyqhubs.in
+
+### GhostLink
+A browser-based peer-to-peer chat application built for real-time communication.
+
+### KisanMitra
+A web application that uses the Open Government Data API to display live mandi prices.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=localhostamit&theme=radium&hide_border=true" alt="Amit's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=localhostamit&show_icons=true&theme=radium&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=localhostamit&theme=radium&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostamit&layout=compact&theme=radium&hide_border=true"/>
 </p>
