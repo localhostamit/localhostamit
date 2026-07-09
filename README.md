@@ -61,17 +61,12 @@ A browser-based peer-to-peer chat application built for real-time communication.
 A web application that uses the Open Government Data API to display live mandi prices.
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=localhostamit&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=localhostamit&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=localhostamit&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostamit&layout=compact&theme=github_dark&hide_border=true" />
 </p>
