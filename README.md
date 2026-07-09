@@ -14,7 +14,6 @@
 - BCA (5th Semester) student at Shaheed Udham Singh Govt. College (KUK), graduating in 2027.
 - Learning and building projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - Interested in Linux, Networking, Open Source, and AI-assisted development.
-- Looking for internship opportunities in Web Development and Software Engineering.
 
 ---
 
