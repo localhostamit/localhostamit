@@ -1,9 +1,3 @@
-<!-- ========================= -->
-
-<!--        HERO SECTION        -->
-
-<!-- ========================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Amit%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Building%20things%20that%20actually%20work.&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -36,7 +30,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const amit = {
@@ -71,10 +65,11 @@ I'm particularly interested in projects that solve **real problems for students,
 
 ---
 
-# ⚡ What I'm Working On
+## ⚡ What I'm Working On
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎓 PyQHubs
@@ -96,9 +91,11 @@ A browser-based **peer-to-peer communication application** designed for real-tim
 Currently exploring better real-time communication architecture and UX.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌾 KisanMitra
@@ -119,6 +116,7 @@ More experiments around:
 * Open-source collaboration
 
 </td>
+
 </tr>
 </table>
 
@@ -132,7 +130,7 @@ More experiments around:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java" />
@@ -147,7 +145,7 @@ More experiments around:
 ### 🤖 AI & Productivity
 
 <p>
-<img src="https://skillicons.dev/icons?i=openai" />
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -156,6 +154,7 @@ More experiments around:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎓 PyQHubs
@@ -179,9 +178,11 @@ Browser-based peer-to-peer chat application for real-time communication.
 **Focus:** WebRTC / Real-time Communication
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌾 KisanMitra
@@ -199,12 +200,13 @@ Mandi price information platform powered by the Open Government Data API.
 I'm continuously experimenting with new ideas and building projects to learn by actually shipping.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -224,21 +226,11 @@ I'm continuously experimenting with new ideas and building projects to learn by 
 
 ---
 
-# 🏆 GitHub Trophies
+# 📅 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=localhostamit&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=localhostamit&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github.com/localhostamit/localhostamit/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
