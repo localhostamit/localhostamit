@@ -55,3 +55,242 @@ const amit = {
 
     mindset: "Build → Break → Debug → Learn → Repeat"
 };
+```
+
+I'm a BCA student who enjoys turning ideas into **working software**.
+
+Currently focused on the **MERN stack**, backend development, Linux, and building useful products rather than just tutorial projects.
+
+I'm particularly interested in projects that solve **real problems for students, developers, and communities**.
+
+---
+
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎓 PyQHubs
+
+An educational platform focused on providing **previous-year questions and study resources** for university students.
+
+<a href="https://www.pyqhubs.in">
+<img src="https://img.shields.io/badge/Visit%20PyQHubs-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💬 GhostLink
+
+A browser-based **peer-to-peer communication application** designed for real-time messaging.
+
+Currently exploring better real-time communication architecture and UX.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌾 KisanMitra
+
+A web application using the **Open Government Data API** to provide live mandi-price information.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Next Up
+
+More experiments around:
+
+- Full-stack systems
+- AI-assisted development
+- Linux & networking
+- Open-source collaboration
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java" />
+</p>
+
+### 🐧 Linux & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,vscode,bash" />
+</p>
+
+### 🤖 AI & Productivity
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎓 PyQHubs
+
+Educational platform for university students providing PYQs and study resources.
+
+**Stack:** MERN / Web Technologies
+
+<a href="https://www.pyqhubs.in">
+<img src="https://img.shields.io/badge/Live%20Website-238636?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔐 GhostLink
+
+Browser-based peer-to-peer chat application for real-time communication.
+
+**Focus:** WebRTC / Real-time Communication
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌾 KisanMitra
+
+Mandi price information platform powered by the Open Government Data API.
+
+**Focus:** APIs / Data / Web Development
+
+</td>
+
+<td width="50%">
+
+### 🔨 More Coming
+
+I'm continuously experimenting with new ideas and building projects to learn by actually shipping.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/localhostamit">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=localhostamit&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/localhostamit">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostamit&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=localhostamit&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📅 GitHub Contributions & Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/localhostamit/localhostamit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/localhostamit/localhostamit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/localhostamit/localhostamit/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   MERN Stack            █████████░░  80%      │
+│   Backend Development   ████████░░░  70%      │
+│   Linux                 ███████░░░░  60%      │
+│   Networking            ██████░░░░░  50%      │
+│   Open Source           ██████░░░░░  50%      │
+│   AI-assisted Dev       ███████░░░░  60%      │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+> These aren't skill ratings. They're simply a snapshot of what I'm spending time learning and building around.
+
+---
+
+## 🌐 Find Me Around the Web
+
+<div align="center">
+
+<a href="https://localhostamit.me">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-101010?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/amitkumar7988">
+<img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="mailto:kumaramit02934@gmail.com">
+<img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/localhostamit">
+<img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+**"The best way to learn software is to build software."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+
+</div>
